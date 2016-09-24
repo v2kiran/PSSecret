@@ -81,15 +81,15 @@ AddCMS mystring -Object ([pscustomobject]@{name='John';age='15';LastName='Doe'})
 ```
 CMS mystring String -v
 ```
-#### Get the String secret
+#### Get the Credential secret
 ```
 CMS mystring PSCredential -v
 ```
-#### Get the String secret
+#### Get the Hashtable secret
 ```
 CMS mystring Hashtable -v
 ```
-#### Get the String secret
+#### Get the Object secret
 ```
 CMS mystring Object -v
 ```
