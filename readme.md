@@ -21,7 +21,7 @@ The values are encrypted and stored in the current user's registry. Information 
 * Add-CMSSecret
 * Remove-CMSSecret
 
-bJhT]CuV9Uk]fmq#2AnN3-*n
+
 
 ## Installation
 
